@@ -83,7 +83,7 @@ html:not([privatebrowsingmode="temporary"]) #sidebar-header {
 }
 
 html:not([privatebrowsingmode="temporary"]) #sidebar-box {
-  --uc-sidebar-width: 2.8rem;
+  --uc-sidebar-width: 3rem;
   --uc-sidebar-hover-width: 25rem;
   position: relative;
   min-width: var(--uc-sidebar-width) !important;

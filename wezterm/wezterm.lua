@@ -10,4 +10,7 @@ config.color_scheme = "Gruvbox dark, hard (base16)"
 config.window_background_opacity = 0.9
 config.macos_window_background_blur = 10
 
+config.macos_window_background_blur = 10
+config.adjust_window_size_when_changing_font_size = false
+
 return config
