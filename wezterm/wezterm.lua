@@ -7,7 +7,7 @@ config.font_size = 19
 
 config.color_scheme = "Tokyo Night Moon"
 
-config.window_background_opacity = 0.9
+config.window_background_opacity = 1
 config.macos_window_background_blur = 10
 
 config.macos_window_background_blur = 10
